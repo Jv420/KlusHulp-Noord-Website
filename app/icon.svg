@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="KlusHulp Noord">
+  <rect width="512" height="512" rx="104" fill="#111111"/>
+  <path d="M82 206 256 76 430 206" fill="none" stroke="#ffffff" stroke-width="34" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M256 76 430 206" fill="none" stroke="#f5b800" stroke-width="34" stroke-linecap="square"/>
+  <path d="M388 130V80h48v116" fill="#f5b800"/>
+  <g fill="#f5b800">
+    <rect x="238" y="126" width="20" height="20"/>
+    <rect x="266" y="126" width="20" height="20"/>
+    <rect x="238" y="154" width="20" height="20"/>
+    <rect x="266" y="154" width="20" height="20"/>
+  </g>
+  <g font-family="Arial Black, Arial, sans-serif" font-size="145" font-weight="900">
+    <text x="54" y="356" fill="#ffffff">K</text>
+    <text x="188" y="356" fill="#ffffff">H</text>
+    <text x="328" y="356" fill="#f5b800">N</text>
+  </g>
+  <path d="M176 220h72v22h-25v116h-22V242h-25z" fill="#ffffff"/>
+  <path d="M180 216c13-24 35-35 64-30l10 15c-20-2-37 5-48 20z" fill="#ffffff"/>
+  <path d="M391 209a35 35 0 0 0 5 47l-23 91 25 8 27-91a35 35 0 0 0 18-42l-18 18-17-6z" fill="#111111"/>
+</svg>
