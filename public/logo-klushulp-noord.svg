@@ -1,1 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 180"><rect width="600" height="180" rx="18" fill="#111"/><path d="M35 85 110 25l75 60" fill="none" stroke="#f5b800" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/><path d="M65 80v65h90V80" fill="none" stroke="#fff" stroke-width="14"/><text x="220" y="83" font-family="Arial,sans-serif" font-size="50" font-weight="800" fill="#fff">KLUSHULP</text><text x="220" y="137" font-family="Arial,sans-serif" font-size="50" font-weight="800" fill="#f5b800">NOORD</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" role="img" aria-labelledby="title desc">
+  <title id="title">KlusHulp Noord</title>
+  <desc id="desc">Officieel zwart, wit en geel KlusHulp Noord-logo met daklijn, KHN-monogram, hamer en steeksleutel.</desc>
+  <rect width="760" height="300" rx="20" fill="#111111"/>
+  <path d="M150 92 294 28 438 92" fill="none" stroke="#ffffff" stroke-width="18" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M294 28 438 92 498 92" fill="none" stroke="#f5b800" stroke-width="18" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M418 52v-34h34v70" fill="#f5b800"/>
+  <g fill="#f5b800">
+    <rect x="280" y="55" width="13" height="13"/>
+    <rect x="298" y="55" width="13" height="13"/>
+    <rect x="280" y="73" width="13" height="13"/>
+    <rect x="298" y="73" width="13" height="13"/>
+  </g>
+  <g font-family="Arial Black, Arial, sans-serif" font-weight="900">
+    <text x="120" y="178" font-size="122" fill="#ffffff">K</text>
+    <text x="272" y="178" font-size="122" fill="#ffffff">H</text>
+    <text x="414" y="178" font-size="122" fill="#f5b800">N</text>
+  </g>
+  <g transform="translate(236 82)" fill="#ffffff">
+    <path d="M0 30h62v18H38v69H24V48H0z"/>
+    <path d="M2 28c9-18 27-28 49-25l8 12c-15-1-28 4-36 15z"/>
+  </g>
+  <g transform="translate(468 86)" fill="#111111">
+    <path d="M22 0a31 31 0 0 0 5 42L7 110l18 7 20-67A31 31 0 0 0 60 7L45 22 31 17z"/>
+  </g>
+  <text x="70" y="232" font-family="Arial Black, Arial, sans-serif" font-size="48" font-weight="900" fill="#ffffff">KLUSHULP</text>
+  <text x="377" y="232" font-family="Arial Black, Arial, sans-serif" font-size="48" font-weight="900" fill="#f5b800">NOORD</text>
+  <path d="M82 258h76M602 258h76" stroke="#f5b800" stroke-width="5"/>
+  <text x="176" y="268" font-family="Arial, sans-serif" font-size="21" font-weight="700" letter-spacing="1.5" fill="#ffffff">BETAALBAAR • BETROUWBAAR • VOOR IEDEREEN</text>
+</svg>
