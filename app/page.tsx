@@ -13,9 +13,9 @@ const steps = [["01","Vertel wat er moet gebeuren","Stuur foto's en een korte om
 const faq = [["Werken jullie met een sociaal tarief?","Ja. Voor mensen met een minimuminkomen, AOW of een beperking bekijken we discreet wat mogelijk is."],["Is een offerte vrijblijvend?","Ja. Een eerste prijsinschatting of offerte is vrijblijvend, tenzij vooraf anders afgesproken."],["In welk gebied werken jullie?","KlusHulp Noord is actief in Noord-Nederland. Neem contact op om uw locatie te controleren."],["Doen jullie ook kleine klussen?","Juist. Ook voor één lamp, plank, lekkende kitrand of kleine reparatie kunt u contact opnemen."]];
 
 export default function Home() {
-  const displayPhone = "06 26 41 20 71";
-  const phoneHref = "tel:+31626412071";
-  const number = process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || "31626412071";
+  const displayPhone = "06 00 00 00 00";
+  const phoneHref = "tel:+3160000000";
+  const number = process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || "3160000000";
   const whatsapp = `https://wa.me/${number}?text=${encodeURIComponent("Hallo KlusHulp Noord, ik wil graag een klus bespreken.")}`;
   return <>
     <header className="site-header"><div className="wrap nav"><a className="brand" href="#top"><Image className="site-logo" src="/logo-klushulp-noord.svg" alt="KlusHulp Noord" width={320} height={145} priority/></a><nav><a href="#diensten">Diensten</a><a href="#werkwijze">Werkwijze</a><a href="#over">Over ons</a><a href="#faq">FAQ</a><a className="nav-cta" href="#contact">Offerte</a></nav></div></header>
